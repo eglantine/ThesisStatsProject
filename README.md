@@ -13,6 +13,8 @@ ThesisCrawlerShort.R
 Récupère automatiquement toutes les données mises à disposition par theses.fr.
 Il faut juste spécifier le dossier où sera enregistré le fichier de sortie.
 
+Pour tous les fichiers suivants il faudra spécifier le dossier d'entrée et de sortie, ainsi que le nom du fichier d'entrée et de sortie.
+
 SimpleStats.R
 -------------
 Propose quelques statistiques sur les titres de thèses. Optionnel pour la suite.
@@ -34,4 +36,4 @@ Normalizer.R
 ------------
 Normalise les noms (de disciplines typiquement) et génère la liste des noeuds (de disciplines) pour le graphe.
 
-Tous ces scripts ont été testés sous Ubuntu 13.10 avec R 3.0.1. et Rstudio 0.98.501.
+Tous ces scripts ont été testés sous Ubuntu 13.10 avec R 3.0.1. et Rstudio 0.98.501. Je ne donne absolument aucune garantie pour d'autres versions.
