@@ -27,6 +27,11 @@ DirLinkMaker.R
 --------------
 Génère la liste de liens nécessaires pour représenter le réseau des codirections de thèses dans Gephi.
 
+UniqueDisMaker.R
+----------------
+Génère un tableau avec toutes les paires un directeur + une discipline possibles.
+Nécessaire pour créer le script suivant.
+
 DisLinkMaker.R
 --------------
 Génère la liste de liens nécessaires pour représenter le réseau disciplinaire des thèses dans Gephi.
